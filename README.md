@@ -11,3 +11,5 @@ Migrationsı işleme kodu;
 
 php yii migrate --migrationPath=@vendor/kouosl/portal-sinavprogrami/migrations --interactive=0
 
+http://portal.kouosl/admin/sinavprogrami Modül
+http://portal.kouosl/admin/sinavprogrami/sinav Model
